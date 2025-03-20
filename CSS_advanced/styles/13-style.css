@@ -60,6 +60,13 @@ a:active {
     font-weight: var(--font-weight-bold);
 }
 
+.card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;

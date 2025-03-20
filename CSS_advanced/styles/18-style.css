@@ -156,3 +156,10 @@ a:active {
 .nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
+
+.card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
